@@ -49,7 +49,7 @@ streamlit run app.py
 
 ## Live Demo
 
-*(Add Streamlit Cloud link here after deployment)*
+[https://diabetes-progression-detector.streamlit.app/](https://diabetes-progression-detector.streamlit.app/)
 
 ---
 
